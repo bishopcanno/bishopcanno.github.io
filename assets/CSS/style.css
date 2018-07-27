@@ -193,6 +193,10 @@ body{
 
 /*css for contact page only*/
 
+textarea{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #cntctContainer{
     height: 720px;
 }
